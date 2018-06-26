@@ -1,0 +1,12 @@
+# ignore all logs
+*.log
+# ignore all ide project files
+*.iml
+# ignore alla classes .class
+*.class 
+# ignore .idea directory
+.idea/*
+.idea/libraries/*
+.idea/libraries/*.xml
+# ignore target directory
+target/*
